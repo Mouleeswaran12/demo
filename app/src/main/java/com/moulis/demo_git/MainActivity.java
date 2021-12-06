@@ -17,7 +17,7 @@ Button b;
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this, "MOuleeswaran", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Mouleeswaran is a student", Toast.LENGTH_SHORT).show();
             }
         });
 
